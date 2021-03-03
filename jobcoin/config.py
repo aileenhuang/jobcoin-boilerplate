@@ -1,6 +1,4 @@
 import sys
-sys.exit('\n!!! Please update config.py with your personal Jobcoin URL and '
-         'remove this message.\n')
 
 # Replace the URL below
 API_BASE_URL = 'https://jobcoin.gemini.com/todo_my_instance/api'
